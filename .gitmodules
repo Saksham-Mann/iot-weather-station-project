@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Saksham-Mann/weather-dashboard-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Saksham-Mann/weather-station-backend.git
