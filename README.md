@@ -1,5 +1,8 @@
 # 🌦️ Weather Station Dashboard (MDP)
 
+![Live Status](https://img.shields.io/badge/Status-Live-success)
+**Live Demo:** [https://weather-station-psi-woad.vercel.app](https://weather-station-psi-woad.vercel.app)
+
 An end-to-end IoT Weather Monitoring System featuring a real-time React dashboard, ESP32 firmware with multiple sensors, and AI-driven weather insights powered by Groq (Llama 3.3).
 
 ## 📂 Project Structure
